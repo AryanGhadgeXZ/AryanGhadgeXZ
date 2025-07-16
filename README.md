@@ -1,4 +1,4 @@
-[![MasterHead](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)]
+![MasterHead](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)
 <h1 align="center">Hi 👋, I'm Aryan Ghadge</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzRrMDUxZnE0MGEyaDh6azI0bXMzaWU4YWkxNGEzNHpsMzN6MGZ6dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SxqtLyr44WYi4/giphy.gif" alt="" style="width: 100px; mix-blend-mode: lighten;
